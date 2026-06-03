@@ -1,0 +1,19 @@
+# Arquivos compilados
+*.class
+
+# Saída do jogo em runtime
+scores.json
+savegame.json
+
+# Saída de testes
+out-tests/
+*.jar
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
